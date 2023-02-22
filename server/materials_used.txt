@@ -1,0 +1,18 @@
+Real Time Video Chat Tutorial Using Django and WebRTC
+https://www.youtube.com/watch?v=MBOlZMLaQ8g
+
+WebRTC — Basic concepts and creating a simple video call app
+https://arpanghoshal3.medium.com/webrtc-basic-concepts-and-creating-a-simple-video-call-app-1460fc9ef17
+
+WebRTC in 100 Seconds // Build a Video Chat app from Scratch
+https://fireship.io/lessons/webrtc-firebase-video-chat/
+
+WebRTC-Django-Django-Channels-Video-Call
+https://github.com/InfoDevkota/WebRTC-Django-Django-Channels-Video-Call
+
+Video Call in Django with WebRTC and Django Channels
+https://www.youtube.com/watch?v=N7lbtbmqLvM
+
+
+ORM practice
+https://python.plainenglish.io/django-orm-examples-and-practice-problems-7896e9906855
