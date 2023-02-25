@@ -30,11 +30,11 @@ const Register = () => {
       label: string;
       flag: string;
     }[] = []
-    Object.keys(countriesFlags).map(key => {
+    countriesFlags.map(item => {
       options.push({
-        value: key,
-        label: key,
-        flag: countriesFlags[key]["normal"]
+        value: item.code,
+        label: item.name,
+        flag: item.image
       })
     })
     return options
