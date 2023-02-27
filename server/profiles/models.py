@@ -1,11 +1,13 @@
 from django.contrib.auth import get_user_model
 from django.db import models
 
+from common.models import PseudoWrapper
+
 User = get_user_model()
 
 
 # Create your models here.
-class Profile(models.Model):
+class Profile(PseudoWrapper):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
     profile_img = models.ImageField(
         upload_to="profile_images", default="profile_images/default.jpg"
